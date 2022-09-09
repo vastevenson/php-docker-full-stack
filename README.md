@@ -2,3 +2,5 @@ See https://youtu.be/2Bxh5FNGznQ for a full walk through on spinning up this ful
 
 Requirements: 
 * Docker 
+
+To run this code, run command: `docker-compose up` from the shell within the directory of this project after cloning it. 
